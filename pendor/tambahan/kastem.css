@@ -1,0 +1,109 @@
+*
+{
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+html, body
+{
+	height: 100%;
+}
+
+body, section
+{
+	position: relative;
+}
+
+.gambar-bulat
+{
+	border-radius: 50%;
+	width: 100%;
+	height: 60%;
+}
+
+.profil-foto
+{
+	width: 100%;
+}
+
+.hal-biasa
+{
+	height: 100%;
+	padding: 150px;
+	display: block;
+}
+
+.titel
+{
+	margin-left: 10px;
+	color: crimson;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.titel h1
+{
+	margin-bottom: 0;
+}
+
+.titel p
+{
+	color: dodgerblue;
+	font-size: 25px;
+}
+
+.hal-abu
+{
+	min-height: 100%;
+	padding: 100px;
+	display: block;
+	background-color: gainsboro;
+	height: 100%;
+}
+
+.begrond-biru
+{
+	background-color: dodgerblue;
+}
+
+.navbar
+{
+	font-weight:bold;
+	font-size:24px;
+}
+
+.navbar-brand
+{
+	font-size: 28px;
+}
+
+#contact .row
+{
+	padding: 20px;
+	height: 100%;
+}
+
+#contact .form-group input
+{
+	float: left;
+	width: 48%;
+	margin: 7px;
+	padding:15px;
+}
+
+#contact .form-group textarea
+{
+	height: 300px;
+	margin: 5px;
+} 
+
+#contact button
+{
+	margin: 5px;
+	padding: 20px;
+	font-size: 24px;
+	width:100%;
+	background-color: crimson;
+	border: 0;
+}
